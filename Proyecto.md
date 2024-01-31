@@ -67,3 +67,7 @@ Conecta tu aplicación a la base de datos utilizando la URL de conexión proporc
 
 H2 Capturas de las Colecciones
 ![](https://github.com/Lizandrxo/www/blob/main/Images/MONGODB/Categoria.png?raw=true)
+![](https://github.com/Lizandrxo/www/blob/main/Images/MONGODB/Colecciones(1).png?raw=true
+)
+
+
